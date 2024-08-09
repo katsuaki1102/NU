@@ -142,3 +142,4 @@ xlabel('X-axis');
 ylabel('Y-axis');
 title('Isosurface Vertices near Z-axis Center');
 axis equal;
+testBrowser
